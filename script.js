@@ -88,7 +88,6 @@ function writePassword ()
         passwordText.value = "Please at least select one password criteria!!";
     }
 }
-
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
