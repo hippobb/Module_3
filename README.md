@@ -1,36 +1,7 @@
-# 📖 Write Function to Evaluate Equality of Two Values
+This is a program for generate a random password based on criteria which is selected.When the button is clicked, 
+it will generate a password. The password length can be sleeceted up to 128 characters. At least one character 
+type have to be selected. I did notuse "promp", "alert" & "confirm" function since it will be more clear an web UI and 
+simple select on the web page.
 
-Work with a partner to implement the following user story:
-
-* As a developer, I want to know when two values are equal to one another.
-
-## Acceptance Criteria
-
-* It is done when I provide two values in function arguments and the function evaluates the values' equality.
-
-* It is done if, when the values are strictly equal, the message "They are equal in type and value" is logged.
-
-* It is done if, when the two values are equal but not strictly equal, the message "They are equal in value" is logged.
-
-* It is done if, when the values are not equal or strictly equal, the message "The values are not equal" is logged.
-
-## 📝 Notes
-
-Refer to the documentation:
-
-[MDN Web Docs on functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-
-## 💡 Hints
-
-How can we use parameters to give a name to the two values that we want to evaluate with the function?
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* What is hoisting?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+The sorce code is located at https://github.com/hippobb/Module_3/
+The web page is https://hippobb.github.io/Module_3/
