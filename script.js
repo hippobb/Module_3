@@ -7,7 +7,7 @@ const sp_char= ['\u{00021}','\u{00022}','\u{00023}','\u{00024}','\u{00025}','\u{
 var generateBtn = document.querySelector("#generate");
 const max=128;
 
-for (var i = 1; i <=max; i++) {
+for (var i = 8; i <=max; i++) {
     // create option element
     var Pass_len_Option = document.createElement("option");
     Pass_len_Option.setAttribute("value", i);
